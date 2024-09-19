@@ -8,8 +8,8 @@ The project was developed in cooperation with Lodz University of Technology, Dep
 
 ### Authors
 
-- Mateusz Dionizy
-- Jakub Adamczyk
+- Mateusz Dionizy - [@deronek](https://github.com/deronek/)
+- Jakub Adamczyk - [@JakubTOL](https://github.com/JakubTOL/)
 
 ## User Perspective
 
